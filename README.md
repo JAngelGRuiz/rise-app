@@ -9,6 +9,7 @@ THIS IS NOT AN OPTIMIZED PROJECT in any way to be comercial, or a PWA, or SEO op
 
 This project was developed with react.js, using styled componetns, and hooks. 
 EVERYTHING here, was developed from skratch. Since webpack config to the last component. 
+I also added my eslint config thet I usually work with.
 
 
 ***** This project is hosted on the net at: https://rise-test-537c4.web.app/ ********
@@ -22,7 +23,7 @@ Then open the terminal in the root of the project and run:
 To run the entire project, run:
 ++ npm run start
 
---------- this project is configured to run locally at: 192.168.1.77:8080 ----------------
+**** this project is configured to run locally at: 192.168.1.77:8080 ****
 
 Thanks for reading. 
 
